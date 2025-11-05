@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.hellin.demo.entity","l":"Pet"},{"p":"com.hellin.demo.controller","l":"PetController"},{"p":"com.hellin.demo.repository","l":"PetRepository"},{"p":"com.hellin.demo","l":"PetsApplication"}];updateSearchResults();
